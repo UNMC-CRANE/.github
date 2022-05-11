@@ -1,1 +1,5 @@
-# .github
+# Clinical Research Analytics Environment (CRANE)
+
+The University of Nebraska Medical Center's Clinical Research Analytics Environment (CRANE) is a collaborative effort to organize and reuse real-world data  collected from Nebraska Medicine's clinical data for secondary analyses, pragmatic comparative effectiveness research, and quality improvement programs. CRANE facilitates participation in regional and national research networks, including PCORnet, Observational Health Data Sciences and Informatics (OHDSI), the National COVID Cohort Collaborative (N3C), and the Greater Plains Collaborative (GPC). The CRANE team supports clinical and translational research through expertise in large-scale, collaborative, standardized data-sharing programs, health information standards development, and information modeling. This organizational directory contains repsitories relating to publish works, computable knowledge, and terminology standards developed by CRANE team members. 
+
+![CRANE Diagram](/CRANE_overview_diagram.png)
